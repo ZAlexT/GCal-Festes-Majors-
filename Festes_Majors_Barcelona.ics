@@ -1,0 +1,1057 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GCal Festes Majors//CA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Festes Majors de Barcelona
+BEGIN:VEVENT
+UID:festa-major-vallvidrera-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Vallvidrera 09/12
+LOCATION:Vallvidrera\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ allvidrera-programa/
+URL:https://beteve.cat/agenda/festa-major-vallvidrera-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-indians-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major dels Indians 09/19
+LOCATION:El Camp de l'Arpa del Clot\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-i
+ ndians-programa/
+URL:https://beteve.cat/agenda/festa-major-indians-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-barri-merce-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de la Mercè 09/24
+LOCATION:Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ arri-merce-programa/
+URL:https://beteve.cat/agenda/festa-major-barri-merce-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-montbau-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Montbau 10/02
+LOCATION:Montbau\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-m
+ ontbau-programa/
+URL:https://beteve.cat/agenda/festa-major-montbau-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-hostafrancs-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major d'Hostafrancs 10/03
+LOCATION:Hostafrancs\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-h
+ ostafrancs-programa/
+URL:https://beteve.cat/agenda/festa-major-hostafrancs-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-roser-barcelona@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa del Roser 10/05
+LOCATION:La Rambla\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-roser-b
+ arcelona/
+URL:https://beteve.cat/agenda/festa-roser-barcelona/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-vilapicina-torre-llobeta-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Vilapicina i la Torre Llobeta 10/10
+LOCATION:Vilapicina i la Torre Llobeta\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ ilapicina-torre-llobeta-programa/
+URL:https://beteve.cat/agenda/festa-major-vilapicina-torre-llobeta-programa
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-congres-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Congrés 10/10
+LOCATION:El Congrés i els Indians\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ ongres-programa/
+URL:https://beteve.cat/agenda/festa-major-congres-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-esquerra-eixample-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de l'Esquerra de l'Eixample 10/10
+LOCATION:L'Esquerra de l'Eixample\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-e
+ squerra-eixample-programa/
+URL:https://beteve.cat/agenda/festa-major-esquerra-eixample-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sarria-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sarrià 10/02
+LOCATION:Sarrià\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ arria-programa/
+URL:https://beteve.cat/agenda/festa-major-sarria-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-corts-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de les Corts 10/06
+LOCATION:Les Corts\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ orts-programa/
+URL:https://beteve.cat/agenda/festa-major-corts-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-canyelles-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Canyelles 04/25
+LOCATION:Canyelles\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ anyelles-programa/
+URL:https://beteve.cat/agenda/festa-major-canyelles-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:programa-festa-major-clot-camp-de-larpa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Clot i Camp de l'Arpa 11/07
+LOCATION:El Clot i Camp de l'Arpa\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/programa-fest
+ a-major-clot-camp-de-larpa/
+URL:https://beteve.cat/agenda/programa-festa-major-clot-camp-de-larpa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-verneda-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Verneda 11/07
+LOCATION:La Verneda i la Pau\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ erneda-programa/
+URL:https://beteve.cat/agenda/festa-major-verneda-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sagrera-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Sagrera 11/14
+LOCATION:La Sagrera\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ agrera-programa/
+URL:https://beteve.cat/agenda/festa-major-sagrera-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sant-andreu-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sant Andreu 11/28
+LOCATION:Sant Andreu de Palomar\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ ant-andreu-programa/
+URL:https://beteve.cat/agenda/festa-major-sant-andreu-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sant-antoni@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sant Antoni 01/17
+LOCATION:Sant Antoni\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ ant-antoni/
+URL:https://beteve.cat/agenda/festa-major-sant-antoni/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-santa-eulalia-barcelona-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Santa Eulàlia 02/06
+LOCATION:Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-santa-
+ eulalia-barcelona-programa/
+URL:https://beteve.cat/agenda/festes-santa-eulalia-barcelona-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-santa-madrona-poble-sec-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Santa Madrona 03/14
+LOCATION:Poble-sec\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-santa-
+ madrona-poble-sec-programa/
+URL:https://beteve.cat/agenda/festes-santa-madrona-poble-sec-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-sant-josep-oriol-barcelona@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Sant Josep Oriol 03/21
+LOCATION:Barri Gòtic\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-sant-j
+ osep-oriol-barcelona/
+URL:https://beteve.cat/agenda/festes-sant-josep-oriol-barcelona/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sagrada-familia-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Sagrada Família 04/23
+LOCATION:Sagrada Família\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ agrada-familia-programa/
+URL:https://beteve.cat/agenda/festa-major-sagrada-familia-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-guinardo-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Guinardó 05/02
+LOCATION:El Guinardó\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-g
+ uinardo-programa/
+URL:https://beteve.cat/agenda/festa-major-guinardo-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-festa-major-porta-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Porta 05/15
+LOCATION:Porta\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/agenda-festa-
+ major-porta-programa/
+URL:https://beteve.cat/agenda/agenda-festa-major-porta-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-bon-pastor-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Bon Pastor 05/15
+LOCATION:Bon Pastor\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ on-pastor-programa/
+URL:https://beteve.cat/agenda/festa-major-bon-pastor-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-navas-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Navas 05/22
+LOCATION:Navas\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-n
+ avas-programa/
+URL:https://beteve.cat/agenda/festa-major-navas-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-gotic-barcelona-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes del Gòtic 05/08
+LOCATION:Barri Gòtic\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-gotic-
+ barcelona-programa/
+URL:https://beteve.cat/agenda/festes-gotic-barcelona-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-nou-barris-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Nou Barris 05/13
+LOCATION:Nou Barris\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-n
+ ou-barris-programa/
+URL:https://beteve.cat/agenda/festa-major-nou-barris-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-dreta-eixample-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Dreta de l'Eixample 05/22
+LOCATION:La Dreta de l'Eixample\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-d
+ reta-eixample-programa/
+URL:https://beteve.cat/agenda/festa-major-dreta-eixample-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-passatge-pellicer-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del passatge Pellicer 05/22
+LOCATION:Vallcarca i els Penitents\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ assatge-pellicer-programa/
+URL:https://beteve.cat/agenda/festa-major-passatge-pellicer-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-prosperitat-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Prosperitat 05/22
+LOCATION:La Prosperitat\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ rosperitat-programa/
+URL:https://beteve.cat/agenda/festa-major-prosperitat-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-trinitat-vella-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Trinitat Vella 05/29
+LOCATION:Trinitat Vella\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-t
+ rinitat-vella-programa/
+URL:https://beteve.cat/agenda/festa-major-trinitat-vella-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-besos-maresme-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Besòs i el Maresme 06/05
+LOCATION:El Besòs i el Maresme\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ esos-maresme-programa/
+URL:https://beteve.cat/agenda/festa-major-besos-maresme-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-putxet-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Putxet 06/12
+LOCATION:El Putxet i el Farró\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ utxet-programa/
+URL:https://beteve.cat/agenda/festa-major-putxet-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sant-genis-agudells-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sant Genís dels Agudells 06/12
+LOCATION:Sant Genís dels Agudells\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ ant-genis-agudells-programa/
+URL:https://beteve.cat/agenda/festa-major-sant-genis-agudells-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-paraguai-peru-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Paraguai-Perú 06/12
+LOCATION:La Verneda i la Pau\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ araguai-peru-programa/
+URL:https://beteve.cat/agenda/festa-major-paraguai-peru-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-teixonera-mas-falco-penitents-programa@gcal-festes-majors.l
+ ocal
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Teixonera\, Mas Falcó i Penitents 06/12
+LOCATION:La Teixonera\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-t
+ eixonera-mas-falco-penitents-programa/
+URL:https://beteve.cat/agenda/festa-major-teixonera-mas-falco-penitents-pro
+ grama/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-sant-gervasi-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sant Gervasi 06/13
+LOCATION:Sant Gervasi\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ ant-gervasi-programa/
+URL:https://beteve.cat/agenda/festa-major-sant-gervasi-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-fort-pienc-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Fort Pienc 06/13
+LOCATION:Fort Pienc\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ ort-pienc-programa/
+URL:https://beteve.cat/agenda/festa-major-fort-pienc-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-baix-guinardo-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Baix Guinardó 06/19
+LOCATION:Baix Guinardó\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ aix-guinardo-programa/
+URL:https://beteve.cat/agenda/festa-major-baix-guinardo-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-turo-peira-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Turó de la Peira 06/19
+LOCATION:Turó de la Peira\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-t
+ uro-peira-programa/
+URL:https://beteve.cat/agenda/festa-major-turo-peira-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-font-fargues-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Font d'en Fargues 06/19
+LOCATION:La Font d'en Fargues\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ ont-fargues-programa/
+URL:https://beteve.cat/agenda/festa-major-font-fargues-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-trinitat-nova-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Trinitat Nova 06/19
+LOCATION:Trinitat Nova\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-t
+ rinitat-nova-programa/
+URL:https://beteve.cat/agenda/festa-major-trinitat-nova-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-baro-viver-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Baró de Viver 06/19
+LOCATION:Baró de Viver\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ aro-viver-programa/
+URL:https://beteve.cat/agenda/festa-major-baro-viver-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-ciutat-meridiana-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Ciutat Meridiana 06/19
+LOCATION:Ciutat Meridiana\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ iutat-meridiana-programa/
+URL:https://beteve.cat/agenda/festa-major-ciutat-meridiana-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-palmera-barcelona-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Palmera 06/19
+LOCATION:La Sagrera\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ almera-barcelona-programa/
+URL:https://beteve.cat/agenda/festa-major-palmera-barcelona-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-pau-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Pau 06/19
+LOCATION:La Verneda i la Pau\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ au-programa/
+URL:https://beteve.cat/agenda/festa-major-pau-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-can-baro-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Can Baró 06/19
+LOCATION:Can Baró\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ an-baro-programa/
+URL:https://beteve.cat/agenda/festa-major-can-baro-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-coll-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Coll 06/19
+LOCATION:El Coll\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ oll-programa/
+URL:https://beteve.cat/agenda/festa-major-coll-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-roquetes-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de les Roquetes 06/19
+LOCATION:Les Roquetes\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-r
+ oquetes-programa/
+URL:https://beteve.cat/agenda/festa-major-roquetes-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-guineueta-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Guineueta 06/19
+LOCATION:La Guineueta\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-g
+ uineueta-programa/
+URL:https://beteve.cat/agenda/festa-major-guineueta-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-font-guatlla-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Font de la Guatlla 06/19
+LOCATION:La Font de la Guatlla\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ ont-guatlla-programa/
+URL:https://beteve.cat/agenda/festa-major-font-guatlla-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-vall-hebron-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Vall d'Hebron 06/19
+LOCATION:La Vall d'Hebron\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ all-hebron-programa/
+URL:https://beteve.cat/agenda/festa-major-vall-hebron-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-can-peguera-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Can Peguera 06/19
+LOCATION:Can Peguera\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ an-peguera-programa/
+URL:https://beteve.cat/agenda/festa-major-can-peguera-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-vila-olimpica-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Vila Olímpica 06/19
+LOCATION:La Vila Olímpica del Poblenou\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ ila-olimpica-programa/
+URL:https://beteve.cat/agenda/festa-major-vila-olimpica-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-mas-sauro-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Mas Sauró 06/19
+LOCATION:Mas Sauró\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-m
+ as-sauro-programa/
+URL:https://beteve.cat/agenda/festa-major-mas-sauro-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-vallbona-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Vallbona 06/19
+LOCATION:Vallbona\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ allbona-programa/
+URL:https://beteve.cat/agenda/festa-major-vallbona-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-de-la-vinya-2026-dates-i-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Vinya 06/20
+LOCATION:La Vinya\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-d
+ e-la-vinya-2026-dates-i-programa/
+URL:https://beteve.cat/agenda/festa-major-de-la-vinya-2026-dates-i-programa
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-font-gos-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Font del Gos 06/20
+LOCATION:Font del Gos\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ ont-gos-programa/
+URL:https://beteve.cat/agenda/festa-major-font-gos-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-casc-antic-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Casc Antic 06/20
+LOCATION:Casc Antic\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ asc-antic-programa/
+URL:https://beteve.cat/agenda/festa-major-casc-antic-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-de-can-clos-2026-dates-i-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Can Clos 06/20
+LOCATION:Can Clos\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-d
+ e-can-clos-2026-dates-i-programa/
+URL:https://beteve.cat/agenda/festa-major-de-can-clos-2026-dates-i-programa
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-torre-baro-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Torre Baró 06/20
+LOCATION:Torre Baró\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-t
+ orre-baro-programa/
+URL:https://beteve.cat/agenda/festa-major-torre-baro-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-camp-grassot-gracia-nova-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Camp d'en Grassot i Gràcia Nova 06/20
+LOCATION:Camp d'en Grassot i Gràcia Nova\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ amp-grassot-gracia-nova-programa/
+URL:https://beteve.cat/agenda/festa-major-camp-grassot-gracia-nova-programa
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-rectoret-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Rectoret 06/20
+LOCATION:El Rectoret\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-r
+ ectoret-programa/
+URL:https://beteve.cat/agenda/festa-major-rectoret-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-carmel-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Carmel 07/10
+LOCATION:El Carmel\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-c
+ armel-programa/
+URL:https://beteve.cat/agenda/festa-major-carmel-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-raval@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Raval 07/16
+LOCATION:El Raval\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-r
+ aval/
+URL:https://beteve.cat/agenda/festa-major-raval/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-de-sant-cristofol-2026-programa-i-dates-de-les-festes@gcal-
+ festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Sant Cristòfol 07/10
+LOCATION:Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-d
+ e-sant-cristofol-2026-programa-i-dates-de-les-festes/
+URL:https://beteve.cat/agenda/festa-major-de-sant-cristofol-2026-programa-i
+ -dates-de-les-festes/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-marina-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Marina 07/17
+LOCATION:La Marina de Port\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-m
+ arina-programa/
+URL:https://beteve.cat/agenda/festa-major-marina-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-cases-barates-la-marina-barcelona-programa@gcal-festes-majors.loc
+ al
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa de les Cases Barates 07/17
+LOCATION:La Marina de Port\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-cases-b
+ arates-la-marina-barcelona-programa/
+URL:https://beteve.cat/agenda/festa-cases-barates-la-marina-barcelona-progr
+ ama/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-poble-sec@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Poble-sec 07/17
+LOCATION:Poble-sec\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-p
+ oble-sec/
+URL:https://beteve.cat/agenda/festa-major-poble-sec/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-la-clota-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Clota 07/17
+LOCATION:La Clota\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-l
+ a-clota-programa/
+URL:https://beteve.cat/agenda/festa-major-la-clota-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-sant-roc-barcelona@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Sant Roc 08/14
+LOCATION:Barri Gòtic\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-sant-r
+ oc-barcelona/
+URL:https://beteve.cat/agenda/festes-sant-roc-barcelona/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-gracia-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Gràcia 08/15
+LOCATION:Vila de Gràcia\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-gracia
+ -programa/
+URL:https://beteve.cat/agenda/festes-gracia-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festes-sants-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festes de Sants 08/21
+LOCATION:Sants\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festes-sants-
+ programa/
+URL:https://beteve.cat/agenda/festes-sants-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-font-mont-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Font del Mont 08/28
+LOCATION:La Font del Mont\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ ont-mont-programa/
+URL:https://beteve.cat/agenda/festa-major-font-mont-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-mas-guimbau-can-castellvi-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Mas Guimbau-Can Castellví 08/28
+LOCATION:Mas Guimbau-Can Castellví\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-m
+ as-guimbau-can-castellvi-programa/
+URL:https://beteve.cat/agenda/festa-major-mas-guimbau-can-castellvi-program
+ a/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-bordeta-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Bordeta 09/04
+LOCATION:La Bordeta\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-b
+ ordeta-programa/
+URL:https://beteve.cat/agenda/festa-major-bordeta-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-vallcarca-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de Vallcarca 09/04
+LOCATION:Vallcarca\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-v
+ allcarca-programa/
+URL:https://beteve.cat/agenda/festa-major-vallcarca-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-horta-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major d'Horta 09/04
+LOCATION:Horta\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-h
+ orta-programa/
+URL:https://beteve.cat/agenda/festa-major-horta-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-salut-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major de la Salut 08/15
+LOCATION:La Salut\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-s
+ alut-programa/
+URL:https://beteve.cat/agenda/festa-major-salut-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festa-major-farro-programa@gcal-festes-majors.local
+DTSTAMP:20260920T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+RRULE:FREQ=YEARLY
+SUMMARY:🎊 | Festa Major del Farró 09/11
+LOCATION:El Putxet i el Farró\, Barcelona
+DESCRIPTION:Programa e informació: https://beteve.cat/agenda/festa-major-f
+ arro-programa/
+URL:https://beteve.cat/agenda/festa-major-farro-programa/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
